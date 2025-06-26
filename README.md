@@ -1,7 +1,7 @@
 Temporaxis Battery Motif Chain Forecasting
 Author: Carney Shea Pryately
 Publication: Pryately, C. (2025). Temporaxis: Recursive Motif Chain Detection Enables Early, Interpretable Battery Failure Prediction.
-Zenodo: [Add DOI here after upload]
+Zenodo: [10.5281/zenodo.15749913]
 
 Overview
 This repository contains open research code and data to reproduce the results from the Temporaxis battery motif chain analysis published in [Shea, 2025].
